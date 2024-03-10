@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/avipatilpro/MXPlayer_API.git"
   },
-  "keywords": [ MXPlayer, API, Aviapatil ],
   "author": "Avishkar Patil",
   "license": "ISC",
   "bugs": {
